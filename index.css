@@ -1,0 +1,68 @@
+.top{
+    padding-top: 10px;
+}
+.header{
+    background-color: #00acc1;
+    height: 120px;
+    
+}
+.icon{
+    color: #eaeaea;
+    height: 27px;
+    width: 24px;
+}
+.top2{
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.top2{
+    margin-top: 15px;
+    width: 370px;
+    height: 28px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-left: 10px;
+}
+.top2 > i {
+	font-size: 20px;
+	color: #00acc1;
+}
+.top2 > input{
+	flex: 1;
+	height: 40px;
+	border: none;
+	outline: none;
+	font-size: 18px;
+	padding-left: 10px;
+}
+.carouselslide{
+    padding: 10px;
+    margin-top: 15px;
+}
+.c1{
+    height: 100px;
+    width: 60px;
+    margin-left: 16px;
+    text-align: center;
+    color: #00acc1;
+    
+}
+.text{
+    font-weight: 500;
+}
+.container1{
+    margin-top: 10px;
+    height: 102px;
+}
+.col{
+    height: 114px;
+}
+
+
